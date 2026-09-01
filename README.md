@@ -1,5 +1,8 @@
 # SOC 2 Assessment Framework 🧠
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b32370ec-ebe0-491a-ae14-b797e694219f" />
+
+
 A practical framework for analyzing SOC 2 readiness findings, controls, evidence, risks, and remediation.
 
 ---
